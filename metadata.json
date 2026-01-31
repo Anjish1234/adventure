@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Adventurly",
+  "description": "Adventurly is the Tinder for real-world adventures. Discover local hikes, surf spots, and more, all powered by AI to match you with your next great experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
